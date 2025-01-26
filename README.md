@@ -1,8 +1,34 @@
-# React + Vite
+# Infinite Bank Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Infinite Bank Application is a secure and easy-to-use platform where users can manage their bank accounts, transfer money, check their savings, and apply for loans. This project is designed to provide a seamless banking experience with various financial services.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. Account Management
+- **Check Account Balance**: View your current balance anytime.
+- **Transfer Money**: Send money to other accounts easily with secure transactions.
+- **Check Savings**: Track the amount saved in your savings account.
+
+### 2. Loan Services
+- **Education Loan**: Apply for loans to fund your education.
+- **Personal Loan**: Get a loan for personal expenses.
+- **Home Loan**: Apply for a loan to purchase or renovate your home.
+
+## Technologies Used
+
+- **Frontend**: React.js 
+
+## Getting Started
+
+Follow these steps to get the project up and running on your local machine.
+
+### Prerequisites
+
+- Node.js installed on your machine
+- A code editor like VS Code
+
+### Installing
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dastagir2k/Bank_Application.git
